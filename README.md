@@ -48,9 +48,9 @@ Projeto recriado a partir de uma versão em JavaScript puro, mantendo **100% da 
 
 ---
 
-📸 Preview
+🖼️ Preview do Projeto
 
-(adicione aqui uma imagem ou mockup do projeto)
+<img src="https://github.com/AntonioLuiz-dev/tonicalc-react/blob/main/public/assets/mockup.png?raw=true" width="500px"/>
 
 📄 Licença
 
