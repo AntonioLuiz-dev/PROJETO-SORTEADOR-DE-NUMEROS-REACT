@@ -8,7 +8,7 @@ Projeto recriado a partir de uma versão em JavaScript puro, mantendo **100% da 
 
 ## 🚀 Demonstração
 
-👉 (adicione aqui o link do deploy no Vercel)
+👉 projeto-sorteador-de-numeros-react.vercel.app
 
 ---
 
